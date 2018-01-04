@@ -1,0 +1,1 @@
+console.log("Hello and welcome to the console of my website! If you don't know what to do here. There is no need to be here!")

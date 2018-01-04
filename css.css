@@ -1,0 +1,77 @@
+.header1{
+    font-weight: 600;
+    color: #FF0000;
+    text-align: center;
+    font-size: 96px;
+    font-family: "Barlow", sans-serif
+}
+
+.header2{
+    font-family: "Barlow", sans-serif;
+    font-size: 68px;
+    font-weight: 800;
+    color:#610B5E;
+}
+
+html{
+    background-image: url(index-background-1.jpg);
+    font-family: "Fira Sans", sans-serif;
+}
+
+
+.para1{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #BF00FF;
+}
+
+.para2{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: #DF7401;
+}
+
+.header3{
+    font-family: "Fira Sans", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: #FA5858;
+}
+
+.photographytitle1{
+    font-family: "Fira Sans", sans-serif;
+    font-weight: bold;
+    font-size: 96px;
+    text-align: center;
+    color: #f1c40f;
+}
+
+.photographytitle2{
+    font-family: "Fira Sans", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: left;
+    color: #e67e22;
+}
+
+#nav0{
+    font-size: 18px;
+    text-align: left;
+    color:#e67e22;
+    font-family: "Fira Sans", sans-serif;
+    text-decoration: underline;
+}
+
+.footer0{
+    text-align: center;
+}
+
+.header4{
+    font-family: "Barlow", sans-serif;
+    font-size: 48px;
+    font-weight: 800;
+    color:rgb(66, 90, 9);
+}
